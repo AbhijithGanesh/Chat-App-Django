@@ -1,6 +1,6 @@
 asgiref==3.4.1
 attrs==21.2.0
-autobahn==21.11.1
+#autobahn==21.11.1
 Automat==20.2.0
 black==21.11b1
 cffi==1.15.0
